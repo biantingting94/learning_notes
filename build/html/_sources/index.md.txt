@@ -4,9 +4,10 @@
    contain the root `toctree` directive.
 
 Welcome to Jessica's documentation!
-==========================================
+===========================================================
+这里主要是有关前端的学习笔记：HTML、CSS、JavaScript、Jquery、Bootstrap以及Vue
 
-Contents:
+
 .. toctree::
    :maxdepth: 2
 
@@ -18,7 +19,7 @@ Contents:
    Vue
 
 Indices and tables
-==================
+=========================
 
 * :ref:`genindex`
 * :ref:`modindex`
